@@ -410,7 +410,7 @@ df = get_df()
 # %%
 
 # Starting to define the Website through Streamlit (st)
-st.title("Welcome to Divipy")
+st.title("Welcome to MoneyManagerX")
 sidebar = st.sidebar
 # Defining all the filters needed for the calculations in the sidebar.
 with sidebar:
